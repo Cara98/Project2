@@ -1,0 +1,51 @@
+body{
+	color: white;
+	font-font-family: Times New Roman, Times, serif;
+	width: 850px;
+	margin: auto;
+	background-image: url("images/peacock/peacock8.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: black;
+}
+
+nav{
+	padding:16px;
+	text-align: center;
+}
+
+h1{
+	background-image: url("images/peacock/peacock-8.jpg");
+	background-repeat: no-repeat;
+	text-align: center;
+	color: purple;
+	font-size: 50px;
+	font-font-family: arial;
+	padding: 50px;
+	text-shadow: 2px 2px white;
+}
+p{
+	line-height: 25px;
+	font-size: 18px;
+}
+
+.list{
+	font-size: 24px;
+	list-style-image: url("peacock-bird-pictures-dowload.jpg");
+	list-style: 16x16px;
+}
+a:hover 	{
+	color: yellow;
+}
+a {
+	 text-decoration: none;
+	 color: orange;
+}
+
+.photos{ 
+	margin-bottom: 50px;
+	position: relative;
+	float: left;
+	width: 100%;
+	min-height: 700px;
+}
