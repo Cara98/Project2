@@ -1,0 +1,20 @@
+img {
+	height: 300px !important;
+	width: 300px !important;
+}
+
+body{
+	background-image: url(http://p3cdn4static.sharpschool.com/UserFiles/Servers/Server_3500628/Image/abstract-art-mother-earth-1.jpg);
+}
+
+p {
+	color: white;
+}
+
+.navbar-header{
+	background-color: #33FFFC;
+}
+
+.navbar {
+	background-color: #33FFFC;
+}
